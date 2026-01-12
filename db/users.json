@@ -1,0 +1,26 @@
+{
+  "userId": "tomi",
+  "createdAt": 1700000000000,
+  "settings": {
+    "dailyNewCards": 10,
+    "dailyReviewLimit": 200
+  },
+  "words": [
+    { "id": 1, "hanzi": "你好", "pinyin": "nǐ hǎo", "translation": "hello", "example": "你好！很高兴认识你。", "audio": null },
+    { "id": 2, "hanzi": "好", "pinyin": "hǎo", "translation": "good", "example": "好好。", "audio": null }
+  ],
+  "cards": [
+    { "id": 101, "wordId": 1, "direction": "HANZI_TO_MEANING" },
+    { "id": 102, "wordId": 1, "direction": "MEANING_TO_HANZI" },
+    { "id": 103, "wordId": 2, "direction": "HANZI_TO_MEANING" },
+    { "id": 104, "wordId": 2, "direction": "MEANING_TO_HANZI" }
+  ],
+  "cardStates": {
+    "101": { "ease": 2.5, "interval": 0, "reps": 0, "lapses": 0, "dueAt": 0, "lastReviewed": 0 },
+    "102": { "ease": 2.5, "interval": 0, "reps": 0, "lapses": 0, "dueAt": 0, "lastReviewed": 0 },
+    "103": { "ease": 2.5, "interval": 0, "reps": 0, "lapses": 0, "dueAt": 0, "lastReviewed": 0 },
+    "104": { "ease": 2.5, "interval": 0, "reps": 0, "lapses": 0, "dueAt": 0, "lastReviewed": 0 }
+  }
+}
+
+
